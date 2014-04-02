@@ -1,1 +1,5 @@
-Hello World
+TicTacoToe Program
+
+Compile on Putty with 
+g++ -c TicTacToe.cpp task_1.cpp
+g++ -o Game TicTacToe.o task_1.o
